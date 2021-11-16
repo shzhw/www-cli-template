@@ -1,8 +1,8 @@
 {
   "name": "{{projectName}}",
   "version": "{{version}}",
-  "description": "{{version}}",
-  "author": "{{description}}",
+  "description": "{{description}}",
+  "author": "{{author}}",
   "license": "ISC",
   "private": true,
   "scripts": {
