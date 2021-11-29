@@ -2,20 +2,20 @@
 
 ## Project setup
 ```
-<%= pkg %> install
+<%= packageManager %> install
 ```
 
 ### Compiles and hot-reloads for development
 ```
-<%= pkg %><%= pkg !== 'yarn' ? 'run' : '' %> serve
+<%= packageManager %><%= packageManager !== 'yarn' ? 'run' : '' %> serve
 ```
 
 ### Compiles and minifies for production
 ```
-<%= pkg %><%= pkg !== 'yarn' ? 'run' : '' %> build
+<%= packageManager %><%= packageManager !== 'yarn' ? 'run' : '' %> build
 ```
 
 ### Lints and fixes files
 ```
-<%= pkg %><%= pkg !== 'yarn' ? 'run' : '' %> lint
+<%= packageManager %><%= packageManager !== 'yarn' ? 'run' : '' %> lint
 ```
